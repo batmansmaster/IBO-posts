@@ -15,7 +15,7 @@ To have it organised input a name/reddit username if you want to get credit for 
 * Subject Level Type of resources (from the following list: IA, EE, WA )
 * Examination Session Material was created for in the following format Month (M/N) Year (YY), for example N17
 
-General form: [Subject]_[Level]_[Type]_[Examination Session].pdf
+General form: [Subject]\_[Level]\_[Type]\_[Examination Session].pdf
 
 couple examples: 
 
