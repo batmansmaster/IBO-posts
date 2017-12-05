@@ -1,6 +1,6 @@
 # Opening wiki
 
-Now anyone can edit the wiki (except for specific pages, such as the index). The wiki originally was thought of having a medium of keeping track of useful resources, such as websites, youtube channels and etc. However since only selected members could edit it, it did not grow much. Note that If you decide misuse this privilege, we (mods) will ban you (most likely without a warning) from editing the wiki.
+Now anyone can edit the wiki (except for specific pages, such as the index). The wiki originally was thought of having a medium of keeping track of useful resources, such as websites, youtube channels and etc. However since only selected members could edit it, it did not grow much. Note that If you decide misuse this privilege, we (mods) will ban you (most likely without a warning) from editing the wiki. Note that you can create your own pages, but I would prefer if you ask me before creating new page. I think if you guys would want we could task certain people to deal with maintaining links for a subject or with generating pages for a subject.
 
 # GDrive for sharing user created resources
 
