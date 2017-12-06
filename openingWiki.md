@@ -14,7 +14,7 @@ To have it organised input a name/reddit username if you want to get credit for 
 
 1.  Subject please use this list for the subject you are taking (https://pastebin.com/7ua7d2kA, tell me if there is a subject missing)
 1.  Subject Level (Note for TOK this should be ignored/skipped)
-1.  Type of resources from the following list: IA (Internal Assessment), EE (Extended Essay), WA (Written Assignment), FOA (Further Oral Activity), IOP (Interactive Oral Presentation), IOC (Interactive Oral Commentary), ES (for TOK Essays) and PS (for TOK Presentations); please let me know If there is another type you would like to add to the list.
+1.  Type of resources from the following list: IA (Internal Assessment), EE (Extended Essay), WA (Written Assignment), FOA (Further Oral Activity), IOP (Interactive Oral Presentation), IOC (Individual Oral Commentary), ES (for TOK Essays) and PS (for TOK Presentations); please let me know If there is another type you would like to add to the list.
 1.  Examination Session Material was created for in the following format Month (M/N) Year (YY), for example N17
 
 General form: [Subject]\_[Level]\_[Type]\_[Examination Session].pdf
