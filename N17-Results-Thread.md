@@ -18,7 +18,7 @@ Jan 9 12:00 PM - The release of school, global statistics and results CSV files 
 
 Jan 12 12:00 PM - The release of IA feedback to coordinators 
 
-Sept 15 - Last date for requesting enquiries (remarks and such) upon results
+Mar 15 - Last date for requesting enquiries (remarks and such) upon results
 
 
 ---
