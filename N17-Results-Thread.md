@@ -46,4 +46,4 @@ To get more information regarding remarks, getting scripts back and other things
 
 ---
 
-I am going to add another survey regarding the results just like for M17 ([see results](https://www.reddit.com/r/IBO/comments/73g2bv/ribo_m17_statistics/)), once we IB coordinator have the results.
+I am going to add another survey regarding the results just like for M17 ([see results](https://www.reddit.com/r/IBO/comments/73g2bv/ribo_m17_statistics/)), once the IB coordinator have the results.
