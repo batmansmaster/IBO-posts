@@ -1,4 +1,5 @@
-#N17 Results Thread
+# N17 Results Thread
+
 **General Info**
 
 On Jan 6 12:00 PM (GMT) at https://candidates.ibo.org, you should be able to access your results if you forgot you log in details email your IB coordinator. Note that your IB coordinator will already have your grades by then as they are given them at Jan 5th 12:00 PM (GMT) and results are released in 15-minute intervals from 12.00 (GMT) based on the time zone of the school. Hopefully everyone gets the grades they want. Good luck and don't forgot to change your flair! Feel free to share your feelings and/or score.
